@@ -91,4 +91,4 @@ async def meme1(ctx):
 
 
 
-client.run("ODQzMTQ3NDgxNjA1MDc5MDgw.YJ_oSA.70X2-XXggQCM9Ijl6Zk3voJ-F7M")        
+client.run("token")        
